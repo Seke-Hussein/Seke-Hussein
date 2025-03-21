@@ -118,7 +118,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Seke-Hussein&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Seke-Hussein&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=Seke-Hussein&theme=dark&hide_border=false" />
  
 </p>
