@@ -118,19 +118,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Seke-Hussein&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Seke-Hussein&theme=dark&hide_border=false" />
- 
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Seke-Hussein&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
+  <img width="400" src="https://nirzak-streak-stats.vercel.app/?user=Seke-Hussein&theme=dark&hide_border=false" />
 </p>
 
----
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Seke-Hussein&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Seke-Hussein&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seke-Hussein&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-</p>
 
 ---
 
@@ -161,31 +152,13 @@
 ### 🌐 Let’s Connect!
 
 <p align="center">
-  <a href="mailto:hussein.seke@mnsu.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/hseke"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  
   <a href="https://github.com/Seke-Hussein"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
-</p>
-
----
-<h1 align="center">Hi there 👋, I'm Hussein Seke</h1>
-<h3 align="center">🔧 Computer Engineering Student | 💻 IT Consultant | ☁️ Cloud & Network Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Tech+Passionate+%7C+Problem+Solver+%7C+Self-Learner;Cybersecurity+%7C+Networking+%7C+Cloud+Computing;Senior+IT+Consultant+%7C+Engineering+Future+Solutions" alt="Typing SVG" />
-</p>
-
----
-
-<h2 align="center">🌐 Socials</h2>
-
-<p align="center">
-  <a href="https://www.facebook.com/htamim2/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
-  <a href="https://www.instagram.com/_tamim.Official/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/hseke/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.tiktok.com/@tamim__225"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" /></a>
+  <a href="https://facebook.com/htamim2/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/_tamim.Official/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/hseke/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+  <a href="https://tiktok.com/@tamim__225"><img src="https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white" /></a>
   <a href="https://x.com/_tamim.official/"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@Dr.Tamim_225"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
+  <a href="https://.youtube.com/@Dr.Tamim_225"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" /></a>
   <a href="mailto:hussein.seke@mnsu.edu"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
-
----
