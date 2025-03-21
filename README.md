@@ -21,10 +21,8 @@
 
 <p align="center">
   <img width="400" src="https://github-readme-stats.vercel.app/api?username=Seke-Hussein&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
-  <img width="500" src="https://nirzak-streak-stats.vercel.app/?user=Seke-Hussein&theme=dark&hide_border=false" />
+  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=Seke-Hussein&theme=dark&hide_border=false" />
 </p>
----
-### 🧠 Skills
 
 <p align="center">
   <!-- Programming Languages -->
