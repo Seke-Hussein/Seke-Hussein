@@ -14,7 +14,6 @@
 💼 Currently working as **Senior Student Consultant in IT** at MNSU  
 🌐 Certified in **CCNA**, **IoT**, **IT & Networking**, and experienced with **Cloud Platforms (AWS, Azure, GCP)**  
 💡 Passionate about building secure, efficient systems and leveraging tech to improve lives  
-📫 Reach me at: [hussein.seke@mnsu.edu](mailto:hussein.seke@mnsu.edu) | [LinkedIn](https://www.linkedin.com/in/hseke)
 
 ---
 ### 📊 GitHub Stats
@@ -41,17 +40,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" alt="Flutter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white"/>
+  
 
   <!-- Cloud & DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" alt="Google Cloud"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" alt="Firebase"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash"/>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+ 
 
   <!-- Systems & Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/>
@@ -88,8 +85,17 @@
     <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white"/>
       <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white"/>
+   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Seke-Hussein&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+
 ---
+
 
 ### 🧩 Certifications
 
@@ -117,14 +123,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Seke-Hussein&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
----
-
-<h2 align="center">🔝 Top Contributed Repo</h2>
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Seke-Hussein&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
 ---
