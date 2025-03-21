@@ -17,9 +17,13 @@
 📫 Reach me at: [hussein.seke@mnsu.edu](mailto:hussein.seke@mnsu.edu) | [LinkedIn](https://www.linkedin.com/in/hseke)
 
 ---
+### 📊 GitHub Stats
 
+<p align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Seke-Hussein&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
+  <img width="500" src="https://nirzak-streak-stats.vercel.app/?user=Seke-Hussein&theme=dark&hide_border=false" />
+</p>
 ---
-
 ### 🧠 Skills
 
 <p align="center">
@@ -87,16 +91,13 @@
       <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
 </p>
-
 ---
-
 
 ### 🧩 Certifications
 
 - 🎓 **CCNA – Cisco Certified Network Associate** *(UDSM, Tanzania)*
 - 📃 **Diploma & Certificate in Computer & IT** *(UDSM, Tanzania)*
 - 🌐 **Certificate in IoT** *(MNSU – May 2026)*
-
 ---
 
 ### 💼 Featured Projects
@@ -114,17 +115,6 @@
 - Designed a Python-based attribute scoring system to help choose smartphones objectively
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Seke-Hussein&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
-  <img width="400" src="https://nirzak-streak-stats.vercel.app/?user=Seke-Hussein&theme=dark&hide_border=false" />
-</p>
-
-
----
-
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
