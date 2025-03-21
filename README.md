@@ -31,30 +31,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" alt="Google Cloud"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS"/>
 </p>
 
 ---
 
-### 📜 Certifications
+### 🧩 Certifications
 
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cisco_logo_blue_2016.svg/512px-Cisco_logo_blue_2016.svg.png" width="100" alt="CCNA Logo" />  
-  <strong>CCNA - Cisco Certified Network Associate</strong>  
-  <em>University of Dar es Salaam (UDSM) – 2016</em>
-</p>
-
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Internet_of_Things_Word_Cloud.svg/2560px-Internet_of_Things_Word_Cloud.svg.png" width="100" alt="IoT Logo" />  
-  <strong>Internet of Things (IoT) Certificate</strong>  
-  <em>Minnesota State University – May 2026</em>
-</p>
-
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/University_of_Dar_es_Salaam_logo.png" width="60" alt="UDSM Logo" />  
-  <strong>Diploma in Computer & IT</strong>  
-  <em>University of Dar es Salaam (UDSM) – June 2016</em>
-</p>
+- 🎓 **CCNA – Cisco Certified Network Associate** *(UDSM, Tanzania)*
+- 📃 **Diploma & Certificate in Computer & IT** *(UDSM, Tanzania)*
+- 🌐 **Certificate in IoT** *(MNSU – May 2026)*
 
 ---
 
