@@ -6,23 +6,6 @@
 </p>
 
 ---
-
-### 👨‍💻 About Me
-
-🎓 **Senior Computer Engineering Student**, minor in Mathematics — *Minnesota State University, Mankato*  
-🛠️ Former **Helpdesk Manager @ Vodacom Tanzania** & **Support Specialist @ Kelly IT Services**  
-💼 Currently working as **Senior Student Consultant in IT** at MNSU  
-🌐 Certified in **CCNA**, **IoT**, **IT & Networking**, and experienced with **Cloud Platforms (AWS, Azure, GCP)**  
-💡 Passionate about building secure, efficient systems and leveraging tech to improve lives  
-
----
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Seke-Hussein&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
-  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=Seke-Hussein&theme=dark&hide_border=false" />
-</p>
-
 <p align="center">
   <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
@@ -89,13 +72,30 @@
   <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white"/>
    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 </p>
+<p align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=Seke-Hussein&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
+  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=Seke-Hussein&theme=dark&hide_border=false" />
+</p>
+<h2 align="center">🏆 GitHub Trophies</h2>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Seke-Hussein&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</p>
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Seke-Hussein&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
 ---
+### 👨‍💻 About Me
 
+🎓 **Senior Computer Engineering Student**, minor in Mathematics — *Minnesota State University, Mankato*  
+🛠️ Former **Helpdesk Manager @ Vodacom Tanzania** & **Support Specialist @ Kelly IT Services**  
+💼 Currently working as **Senior Student Consultant in IT** at MNSU  
+🌐 Certified in **CCNA**, **IoT**, **IT & Networking**, and experienced with **Cloud Platforms (AWS, Azure, GCP)**  
+💡 Passionate about building secure, efficient systems and leveraging tech to improve lives  
+
+---
+### 📊 GitHub Stats
 
 ### 🧩 Certifications
 
@@ -119,13 +119,7 @@
 - Designed a Python-based attribute scoring system to help choose smartphones objectively
 
 ---
-<h2 align="center">🏆 GitHub Trophies</h2>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Seke-Hussein&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
----
 
 <p align="center">
   <em>“Success is not the key to happiness. Happiness is the key to success. If you love what you are doing, you will be successful.”</em><br/>
